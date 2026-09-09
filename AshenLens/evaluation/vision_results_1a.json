@@ -1,0 +1,86 @@
+{
+  "evaluation": "Sub-track 1A Vision QA",
+  "generated_at": "2026-09-08T21:30:58.318125+00:00",
+  "question_count": 11,
+  "successful": 0,
+  "failed": 11,
+  "results": [
+    {
+      "qid": "1a_v12",
+      "question": "What is the central emblem on the banner of House Morvain?",
+      "status": "error",
+      "error": "All Gemini vision models failed.\n\ngemini-3.8-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}\n\ngemini-3.7-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}",
+      "latency_ms": 61496.85
+    },
+    {
+      "qid": "1a_v06",
+      "question": "In the portrait of Ignatz Ashgrove the Oathless, what object are they holding?",
+      "status": "error",
+      "error": "All Gemini vision models failed.\n\ngemini-3.8-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}\n\ngemini-3.7-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}",
+      "latency_ms": 66068.34
+    },
+    {
+      "qid": "1a_008",
+      "question": "According to the official threat-classification plate, what numerical rating is assigned to the creature known as the Weeping Lurker?",
+      "status": "error",
+      "error": "All Gemini vision models failed.\n\ngemini-3.8-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}\n\ngemini-3.7-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}",
+      "latency_ms": 25486.85
+    },
+    {
+      "qid": "1a_004",
+      "question": "According to the figure plate detailing weapon binding, how many shards of will are required to attune The Thrice-Bound Edge?",
+      "status": "error",
+      "error": "All Gemini vision models failed.\n\ngemini-3.8-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}\n\ngemini-3.7-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}",
+      "latency_ms": 25222.64
+    },
+    {
+      "qid": "1a_013",
+      "question": "On the figure plate depicting 'The Cinder-Wrought Aegis', what attunement cost is listed for this entity?",
+      "status": "error",
+      "error": "All Gemini vision models failed.\n\ngemini-3.8-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}\n\ngemini-3.7-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}",
+      "latency_ms": 25550.47
+    },
+    {
+      "qid": "1a_v11",
+      "question": "What is the central emblem on the banner of The Ashen Vanguard?",
+      "status": "error",
+      "error": "All Gemini vision models failed.\n\ngemini-3.8-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}\n\ngemini-3.7-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}",
+      "latency_ms": 59836.69
+    },
+    {
+      "qid": "1a_v07",
+      "question": "In the portrait of Aldous Wrenfield the Last Warden, what object are they holding?",
+      "status": "error",
+      "error": "All Gemini vision models failed.\n\ngemini-3.8-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}\n\ngemini-3.7-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}",
+      "latency_ms": 60419.06
+    },
+    {
+      "qid": "1a_009",
+      "question": "According to the figure plate, what is the recorded garrison strength of Greyfell Citadel?",
+      "status": "error",
+      "error": "All Gemini vision models failed.\n\ngemini-3.8-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}\n\ngemini-3.7-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}",
+      "latency_ms": 25167.3
+    },
+    {
+      "qid": "1a_007",
+      "question": "According to the figure plate, what is the attunement cost listed for the Thrice-Bound Lantern?",
+      "status": "error",
+      "error": "All Gemini vision models failed.\n\ngemini-3.8-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}\n\ngemini-3.7-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}",
+      "latency_ms": 25301.56
+    },
+    {
+      "qid": "1a_v21",
+      "question": "What motif is engraved on Gauntlet of Sorrowfell in its official illustration?",
+      "status": "error",
+      "error": "All Gemini vision models failed.\n\ngemini-3.8-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}\n\ngemini-3.7-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}",
+      "latency_ms": 60201.22
+    },
+    {
+      "qid": "1a_001",
+      "question": "According to the figure plate illustrating Emberdeep’s forces, what is the recorded total of its garrison strength?",
+      "status": "error",
+      "error": "All Gemini vision models failed.\n\ngemini-3.8-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}\n\ngemini-3.7-flash failed.\nLast error: Error code: 403 - {'error': {'message': 'Your project has been denied access. Please contact support.', 'code': 'permission_denied'}}",
+      "latency_ms": 25064.38
+    }
+  ]
+}

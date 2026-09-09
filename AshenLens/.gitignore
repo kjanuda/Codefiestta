@@ -1,0 +1,29 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment / secrets
+.env
+backend/.env
+frontend/.env.local
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Generated indexes / cache
+storage/*
+!storage/.gitkeep
+
+# Competition corpus
+corpus/Ashen_Era_Archive/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

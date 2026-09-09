@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+PyMuPDF
+python-docx
+Pillow
+httpx
+google-genai
+voyageai
+numpy
